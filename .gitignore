@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# KiCad local/user files
+*.kicad_prl
+*.lck
+*-backups/
+_autosave-*
+\#auto_saved_files#
+fp-info-cache
+*.bak
+*-bak
+.history/
+*_drc_violations.json
+
+# Python / simulation outputs
+__pycache__/
+*.pyc
+Hardware/Simulation/*.dat
+Hardware/Simulation/*.raw
