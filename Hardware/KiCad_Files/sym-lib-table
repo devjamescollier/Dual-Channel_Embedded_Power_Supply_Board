@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS54331DR")(type "KiCad")(uri "${KIPRJMOD}/Symbols/TPS54331DR.kicad_sym")(options "")(descr "TI TPS54331DR buck converter"))
+)
