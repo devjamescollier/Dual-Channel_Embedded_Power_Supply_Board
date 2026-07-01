@@ -1,0 +1,4 @@
+v33_vin12.dat    Vout@0.1A=3.3155V rip=2.2mVpp | Vout@1.5A=3.3147V rip=3.9mVpp IL=1.452A ILpk(max)=2.13A fsw~570kHz | step: under=3.121V (-5.9%) settle=55us over=3.488V (+5.2%) | start Vin=6.11V t10-90 start=0.87->4.04ms startpk=3.325V
+v33_vin6.dat     Vout@0.1A=3.3156V rip=1.6mVpp | Vout@1.5A=3.3151V rip=2.1mVpp IL=1.474A ILpk(max)=2.17A fsw~570kHz | step: under=3.129V (-5.6%) settle=54us over=3.485V (+5.1%) | start Vin=5.81V t10-90 start=1.32->4.50ms startpk=3.327V
+v5_vin12.dat     Vout@0.1A=4.9841V rip=2.5mVpp | Vout@1.5A=4.9826V rip=4.5mVpp IL=1.443A ILpk(max)=2.29A fsw~570kHz | step: under=4.782V (-4.0%) settle=329us over=5.168V (+3.7%) | start Vin=6.11V t10-90 start=0.88->4.07ms startpk=4.999V
+v5_vin6.dat      Vout@0.1A=4.9842V rip=1.3mVpp | Vout@1.5A=4.9861V rip=4.3mVpp IL=1.491A ILpk(max)=2.40A fsw~570kHz | step: under=4.736V (-5.0%) settle=285us over=5.149V (+3.3%) | start Vin=5.81V t10-90 start=1.33->4.54ms startpk=4.988V
