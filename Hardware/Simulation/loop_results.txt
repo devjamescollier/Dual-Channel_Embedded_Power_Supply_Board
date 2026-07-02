@@ -1,0 +1,16 @@
+3.3V Vin12 Co50u Io=0.2A  fc=  23.8 kHz  PM= 59.6 deg  GM= 19.1 dB
+3.3V Vin12 Co50u Io=1.5A  fc=  23.8 kHz  PM= 62.6 deg  GM= 19.2 dB
+3.3V Vin6  Co50u Io=0.2A  fc=  23.8 kHz  PM= 59.4 deg  GM= 19.0 dB
+3.3V Vin6  Co50u Io=1.5A  fc=  23.8 kHz  PM= 62.5 deg  GM= 19.2 dB
+3.3V Vin12 Co30u Io=0.2A  fc=  37.9 kHz  PM= 53.4 deg  GM= 14.4 dB
+3.3V Vin12 Co30u Io=1.5A  fc=  37.8 kHz  PM= 56.6 deg  GM= 14.6 dB
+3.3V Vin12 Co80u Io=0.2A  fc=  15.6 kHz  PM= 59.7 deg  GM= 23.6 dB
+3.3V Vin12 Co80u Io=1.5A  fc=  15.5 kHz  PM= 62.5 deg  GM= 23.7 dB
+5V   Vin12 Co36u Io=0.2A  fc=  35.6 kHz  PM= 58.3 deg  GM= 15.8 dB
+5V   Vin12 Co36u Io=1.5A  fc=  35.6 kHz  PM= 60.2 deg  GM= 15.9 dB
+5V   Vin6  Co36u Io=0.2A  fc=  35.8 kHz  PM= 61.2 deg  GM= 17.0 dB
+5V   Vin6  Co36u Io=1.5A  fc=  35.8 kHz  PM= 63.1 deg  GM= 17.1 dB
+5V   Vin12 Co25u Io=0.2A  fc=  48.4 kHz  PM= 48.5 deg  GM= 12.5 dB
+5V   Vin12 Co25u Io=1.5A  fc=  48.3 kHz  PM= 50.5 deg  GM= 12.6 dB
+5V   Vin12 Co50u Io=0.2A  fc=  26.5 kHz  PM= 65.6 deg  GM= 18.9 dB
+5V   Vin12 Co50u Io=1.5A  fc=  26.5 kHz  PM= 67.4 deg  GM= 18.9 dB
