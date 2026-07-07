@@ -1,0 +1,7 @@
+(version 1)
+
+# 0201 (0603 metric) IPC-7351 land pattern has a 0.18 mm gap between its own two pads.
+# Allow down to 0.15 mm only between pads of 0201 footprints (JLCPCB minimum spacing is 0.1 mm).
+(rule "0201_pad_gap"
+  (constraint clearance (min 0.15mm))
+  (condition "A.memberOfFootprint('Capacitor_SMD:C_0201_0603Metric') && B.memberOfFootprint('Capacitor_SMD:C_0201_0603Metric')"))
