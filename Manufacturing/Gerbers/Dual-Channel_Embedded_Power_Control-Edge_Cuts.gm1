@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.5*%
+%TF.CreationDate,2026-11-09T12:44:27-08:00*%
+%TF.ProjectId,Dual-Channel_Embedded_Power_Control,4475616c-2d43-4686-916e-6e656c5f456d,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.5) date 2026-11-09 12:44:27*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X30950000Y-95950000D02*
+X30950000Y-53950000D01*
+X78950000Y-53950000D02*
+X30950000Y-53950000D01*
+X78950000Y-53950000D02*
+X78950000Y-95950000D01*
+X78950000Y-95950000D02*
+X30950000Y-95950000D01*
+M02*
